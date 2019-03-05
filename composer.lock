@@ -599,16 +599,16 @@
         },
         {
             "name": "hyn/multi-tenant",
-            "version": "5.3.1",
+            "version": "5.4.0-beta",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyn/multi-tenant.git",
-                "reference": "f1f68a257e71ea565a998d89c0119781788159c0"
+                "reference": "883a88a8b41c16a4b00f33c803739eb9b39d7d6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyn/multi-tenant/zipball/f1f68a257e71ea565a998d89c0119781788159c0",
-                "reference": "f1f68a257e71ea565a998d89c0119781788159c0",
+                "url": "https://api.github.com/repos/hyn/multi-tenant/zipball/883a88a8b41c16a4b00f33c803739eb9b39d7d6f",
+                "reference": "883a88a8b41c16a4b00f33c803739eb9b39d7d6f",
                 "shasum": ""
             },
             "require": {
@@ -662,7 +662,7 @@
                 "saas",
                 "tenancy"
             ],
-            "time": "2019-03-04T11:48:00+00:00"
+            "time": "2019-03-05T14:21:15+00:00"
         },
         {
             "name": "jakub-onderka/php-console-color",
@@ -754,16 +754,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.8.2",
+            "version": "v5.8.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "c3b7cbe700efb0f4c9a5359feaedb0a1f0a741ca"
+                "reference": "d36d74acd3added5abbe7e7a84342b54bb0b0521"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/c3b7cbe700efb0f4c9a5359feaedb0a1f0a741ca",
-                "reference": "c3b7cbe700efb0f4c9a5359feaedb0a1f0a741ca",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/d36d74acd3added5abbe7e7a84342b54bb0b0521",
+                "reference": "d36d74acd3added5abbe7e7a84342b54bb0b0521",
                 "shasum": ""
             },
             "require": {
@@ -897,7 +897,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2019-02-27T14:02:36+00:00"
+            "time": "2019-03-05T13:51:19+00:00"
         },
         {
             "name": "laravel/tinker",
